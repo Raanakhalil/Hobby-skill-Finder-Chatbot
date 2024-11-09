@@ -1,0 +1,5 @@
+transformers
+sentence-transformers
+groq
+torch
+streamlit
